@@ -1,0 +1,20 @@
+{% extends 'hospital/homebase.html' %}
+
+
+{% block content %}
+
+<br>
+<br>
+
+<div class="jumbotron" style="margin-bottom:0px;">
+  <h1 class="display-4" style="text-align:center;">Здравствуйте, Администратор!</h1>
+  <p class="lead">Добро пожаловать в подсистему регистрации и консультации.</p>
+  <hr class="my-4">
+  <p>Для продолжения войдите в систему или зарегистрируйтесь.</p>
+  <p class="lead">
+    <a class="btn btn-primary btn-lg" href="/adminsignup" role="button">Зарегистрироваться</a>
+    <a class="btn btn-primary btn-lg" href="/adminlogin" role="button">Войти</a>
+  </p>
+</div>
+
+{% endblock content %}
