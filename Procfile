@@ -1,1 +1,1 @@
-web: gunicorn Django_HMS1.1.wsgi
+web: gunicorn Django_HMS1.1.wsgi --log-file -
