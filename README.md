@@ -3,7 +3,7 @@
 ---
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/tozuf0x/Django_HMS1.1/tree/master/static/images/изображение_2022-08-17_122240.png?raw=true)
+![homepage snap](https://github.com/tozuf0x/Django_HMS1.1/master/static/images/изображение_2022-08-17_122240.png?raw=true)
 ### Admin Dashboard
 ![dashboard snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_dashboard.png?raw=true)
 ### Invoice
