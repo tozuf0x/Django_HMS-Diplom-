@@ -3,13 +3,13 @@
 ---
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/tozuf0x/Django_HMS1.1/master/static/images/изображение_2022-08-17_122240.png?raw=true)
+[![R4389-S6y2o0.jpg](https://i.postimg.cc/PfB2YCDk/R4389-S6y2o0.jpg)](https://postimg.cc/z3FC1Xpd)
 ### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_dashboard.png?raw=true)
+[![2022-08-17-183848.png](https://i.postimg.cc/5y7336zW/2022-08-17-183848.png)](https://postimg.cc/dZCrQQn5)
+### Doctor Dashboard
+[![2022-08-17-183848.png](https://i.postimg.cc/5y7336zW/2022-08-17-183848.png)](https://postimg.cc/dZCrQQn5)
 ### Invoice
-![invoice snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/invoice.png?raw=true)
-### Doctor list
-![doctor snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_doctor.png?raw=true)
+[![2022-08-17-184134.png](https://i.postimg.cc/Dw9h2czH/2022-08-17-184134.png)](https://postimg.cc/qNxSwyyx)
 ---
 ## Functions
 ### Admin
